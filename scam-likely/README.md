@@ -1,5 +1,5 @@
 # Scam Likely
-Created as my 2020 entry for National Novel Generation Month, this Python program writes an audiobook and transcript that 
+Created as my [2020 entry for National Novel Generation Month](https://github.com/NaNoGenMo/2020/issues/78), this Python program writes an audiobook and transcript that 
 emulates a recording of a (very long) list of messages on an answering machine. The calls largely consist of 
 excerpts of recorded conversations (butt dials, perhaps?), as well as occasional spam thrown in for comedic effect. 
 The spam text was generated using a Markov chain "trained" on the [University of California, Urvine SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection),
